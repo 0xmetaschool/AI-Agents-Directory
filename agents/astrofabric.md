@@ -11,4 +11,5 @@
 **Links**:
 - [Website/Platform](https://www.astrofabric.ai)
 - [Documentation](https://www.astrofabric.ai/docs)
+- [GitHub](https://github.com/sam1siam/astrofabric-mcp)
 - [Twitter](https://x.com/astrofabricai)
